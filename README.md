@@ -15,7 +15,7 @@ Before running the app, ensure you have the following:
 
 1. **Download the APK**
 
-   Download the latest `system_monitor.apk` file from the [releases page]([URL_TO_RELEASE_PAGE](https://github.com/haanoon/system-monitor/releases/download/initial-release/sys_monitor.apk)) or from the `[build/app/outputs/flutter-apk](https://github.com/haanoon/system-monitor/blob/main/sys_monitor.apk)` directory in the repository.
+   Download the latest `system_monitor.apk` file from the [releases page]([[URL_TO_RELEASE_PAGE](https://github.com/haanoon/system-monitor/releases/download/initial-release/sys_monitor.apk)])) or from the '(https://github.com/haanoon/system-monitor/blob/main/sys_monitor.apk)` directory in the repository.
 
 2. **Install the APK**
 
